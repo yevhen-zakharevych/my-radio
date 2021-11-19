@@ -1,0 +1,8 @@
+{
+  "name": "My radio",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "64adc43c"
+}
